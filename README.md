@@ -8,3 +8,4 @@ C#, C++, Java veya JavaScript dillerinin biriyle kodlanmış bir program yazın�
 
 
 İyi çalışmalar, başarılar.
+kaynak:https://www.youtube.com/watch?v=Xgj15AMkcvA&list=PLh9ECzBB8tJNWhY-uH1RrvAFI88vC-Snh
